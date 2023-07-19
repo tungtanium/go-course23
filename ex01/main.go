@@ -43,6 +43,7 @@ func format_name_by_country(inputName []string, countryCode string) string {
 	case 1:
 		return string(inputName[0])
 	default:
+		countryCode = strings.ToUpper(countryCode)
 		switch countryCode {
 		// Countries using reversed name order. Country code in ISO3166 Alpha 2
 		// https://gist.github.com/ssskip/5a94bfcd2835bf1dea52#file-iso3166-1-alpha2-json
