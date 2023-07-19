@@ -36,7 +36,7 @@ func format_name_by_country(inputName []string, countryCode string) string {
 	inputLength := len(inputName)
 
 	if !validate_country_code(countryCode) {
-		panic("Invalid country code format. Valid format example: VN")
+		fmt.Println("Invalid country code format. Valid format example: VN")
 	}
 
 	switch inputLength {
@@ -62,11 +62,8 @@ func main() {
 	inputName := args[:len(args)-1]
 
 	if len(inputName) < 1 {
-		panic("No name to order")
+		fmt.Println("No name to order")
 	}
-	format_name_by_country(inputName, countryCode)
-
-	fmt.Println("DEBUG - Input name and country code: ", inputName, countryCode)
 	fmt.Println("Result: ", format_name_by_country(inputName, countryCode))
 
 }
