@@ -40,7 +40,7 @@ func format_name_by_country(inputName []string, countryCode string) string {
 	inputLength := len(inputName)
 
 	if !validate_country_code(countryCode) {
-		fmt.Println("Invalid country code format. Valid format example: VN")
+		return "[ERR] Invalid country code format. Valid format example: VN"
 	}
 
 	switch inputLength {
