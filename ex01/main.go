@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"os"
 	"regexp"
 	"strings"
@@ -40,7 +41,7 @@ func format_name_by_country(inputName []string, countryCode string) string {
 	inputLength := len(inputName)
 
 	if !validate_country_code(countryCode) {
-		return "[ERR] Invalid country code format. Valid format example: VN"
+		return "[ERR] Country code should be in ISO3166 Alpha 2 format. E.g.: VN"
 	}
 
 	switch inputLength {
@@ -70,7 +71,7 @@ func main() {
 	if len(inputName) < 1 {
 		fmt.Println("No name to order")
 	}
-	fmt.Println("[INFO] Input (First, Last, Middle, Country Code): ", inputName, countryCode)
-	fmt.Println("Result: ", format_name_by_country(inputName, countryCode))
+	log.Println("[INFO] Input (First, Last, Middle, Country Code): ", inputName, countryCode)
+	fmt.Println("\nResult: ", format_name_by_country(inputName, countryCode))
 
 }
