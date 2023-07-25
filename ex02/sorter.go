@@ -10,9 +10,9 @@ import (
 
 func main() {
 	// Flags
-	intFlag := flag.Bool("int", false, "Sort integer data increasingly")
-	floatFlag := flag.Bool("float", false, "Sort float data increasingly")
-	stringFlag := flag.Bool("string", false, "Sort string data alphabetically")
+	intFlag := flag.Bool("int", false, "Sort integer data increasingly. Data to sort must be in numeric. E.g: 1 2 3 4")
+	floatFlag := flag.Bool("float", false, "Sort float data increasingly. Data to sort must be in numeric. E.g: 1.0 2.1 3.2 4.3")
+	stringFlag := flag.Bool("string", false, "Sort string data alphabetically. Data to sort must be in non-numeric. E.g: Mot hai ba bon")
 
 	flag.Parse()
 

@@ -1,6 +1,7 @@
 package sortitout
 
 import (
+	"log"
 	"regexp"
 	"sort"
 	"strconv"
@@ -43,6 +44,7 @@ func SortInt(data []string) []int {
 	out := make([]int, len(data))
 
 	if !validateInt(data) {
+		log.Panic("Input data must be numeric for sorting")
 		panic(data)
 	}
 
@@ -58,6 +60,7 @@ func SortFloat(data []string) []float64 {
 	out := make([]float64, len(data))
 
 	if !validateFloat(data) {
+		log.Panic("Input data must be numeric for sorting")
 		panic(data)
 	}
 
@@ -72,6 +75,7 @@ func SortFloat(data []string) []float64 {
 func SortString(data []string) []string {
 
 	if !validateString(data) {
+		log.Panic("Input data must be non-numeric for sorting")
 		panic(data)
 	}
 
