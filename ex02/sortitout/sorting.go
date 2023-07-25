@@ -1,32 +1,10 @@
 package sortitout
 
 import (
-	"fmt"
-	"log"
 	"regexp"
 	"sort"
 	"strconv"
 )
-
-func Testing() {
-	fmt.Println("\nFrom `sortitout` package with love")
-	// Sorting examples
-	intSlc := []int{4, 60, 19, 92, 0, 1001}
-	// fltSlc := []float64{0.01, 1.0, 0.8, 1.5, 2.3}
-	// fltSlc2 := []float64{0.1, 1, 12, 5, 30}
-	fltArr := [7]float64{200, 0.01, 0.1, 2.3, 12, 5, 30}
-	strSlc := []string{"Foo", "Faz", "Apple", "Aubergine", "Zuccini", "Banana", "Strawberry"}
-
-	sort.Ints(intSlc)
-	fmt.Println(intSlc)
-
-	sort.Float64s(fltArr[:])
-	fmt.Println(fltArr)
-
-	sort.Strings(strSlc)
-	fmt.Println(strSlc)
-
-}
 
 func isNumeric(astr string) bool {
 	return regexp.MustCompile(`\d`).MatchString(astr)
@@ -59,21 +37,6 @@ func validateString(data []string) bool {
 		}
 	}
 	return true
-}
-
-func ValidateDataType(data []string, dataType string) bool {
-	switch dataType {
-	case "int":
-		return validateInt(data)
-	case "float":
-		return validateFloat(data)
-	case "string":
-		return validateString(data)
-	default:
-		message := fmt.Sprintf("%s type is unknown.", dataType)
-		log.Panic(message)
-		panic(message)
-	}
 }
 
 func SortInt(data []string) []int {
