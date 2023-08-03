@@ -8,20 +8,20 @@ import (
 	"strings"
 )
 
-func is_numeric(astr string) bool {
+func isNumeric(astr string) bool {
 	return regexp.MustCompile(`\d`).MatchString(astr)
 }
 
-func validate_country_code(code string) bool {
+func validateCountryCode(code string) bool {
 	codeLength := len(code)
-	if codeLength != 2 || is_numeric(code) {
+	if codeLength != 2 || isNumeric(code) {
 		return false
 	}
 
 	return true
 }
 
-func order_name(name_to_reverse []string, reverse string) string {
+func orderName(name_to_reverse []string, reverse string) string {
 	name_length := len(name_to_reverse)
 	first_name := name_to_reverse[0]
 	last_name := name_to_reverse[1]
@@ -37,10 +37,10 @@ func order_name(name_to_reverse []string, reverse string) string {
 	}
 }
 
-func format_name_by_country(inputName []string, countryCode string) string {
+func formatNameByCountry(inputName []string, countryCode string) string {
 	inputLength := len(inputName)
 
-	if !validate_country_code(countryCode) {
+	if !validateCountryCode(countryCode) {
 		return "[ERR] Country code should be in ISO3166 Alpha 2 format. E.g.: VN"
 	}
 
@@ -54,10 +54,10 @@ func format_name_by_country(inputName []string, countryCode string) string {
 		// https://gist.github.com/ssskip/5a94bfcd2835bf1dea52#file-iso3166-1-alpha2-json
 		// https://obaninternational.com/blog/how-do-naming-conventions-vary-around-the-world
 		case "CN", "JP", "KR", "KP", "VN", "TW", "HU", "BA", "HR", "RS":
-			out := order_name(inputName, "reverse")
+			out := orderName(inputName, "reverse")
 			return out
 		default:
-			out := order_name(inputName, "noreverse")
+			out := orderName(inputName, "noreverse")
 			return out
 		}
 	}
@@ -72,6 +72,6 @@ func main() {
 		fmt.Println("No name to order")
 	}
 	log.Println("[INFO] Input (First, Last, Middle, Country Code): ", inputName, countryCode)
-	fmt.Println("\nResult: ", format_name_by_country(inputName, countryCode))
+	fmt.Println("\nResult: ", formatNameByCountry(inputName, countryCode))
 
 }
