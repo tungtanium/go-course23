@@ -42,13 +42,12 @@ func CrawlAF1FromJDSportsAU() []NikeAF1 {
 	// Find and visit all links
 	c.OnHTML("span.itemContainer", func(h *colly.HTMLElement) {
 		cleanedPrice := cleanPriceData(h.ChildText("span.pri"))
-		prodLink := fmt.Sprintf("%s%s", ProductURLPrefix, h.ChildAttr("a.itemImage", "href"))
 
 		af1 := NikeAF1{
 			Name:    h.ChildText("span.itemTitle"),
 			Price:   cleanedPrice,
 			ImgUrl:  h.ChildAttr("img.thumbnail", "data-src"),
-			ProdUrl: prodLink,
+			ProdUrl: h.Request.AbsoluteURL(h.ChildAttr("a.itemImage", "href")),
 		}
 		af1s = append(af1s, af1)
 	})
@@ -77,6 +76,5 @@ func main() {
 	if err != nil {
 		fmt.Println(err.Error())
 	}
-	os.WriteFile("af1.json", data, 0644)
-
+	os.WriteFile("af1s.json", data, 0644)
 }
