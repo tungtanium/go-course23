@@ -24,7 +24,9 @@ func GetEntryUrl(keyword string) string {
 
 // Scrape local
 func main() {
+	// Read switch data from csv to fill into a database
 	pwd, _ := os.Getwd()
 	csvDataPath := filepath.Join(pwd, "assets", "switchdata.csv")
-	csvread.CsvReader(csvDataPath)
+
+	fmt.Println(csvread.CsvReader(csvDataPath))
 }
