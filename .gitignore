@@ -22,3 +22,9 @@ go.work
 
 # Cache
 *cache*
+
+# Local HTML
+html
+
+# VS Code BS
+.vscode
