@@ -14,6 +14,9 @@ func CsvReader(filepath string) []model.SwitchData {
 	var out []model.SwitchData
 
 	csvfile, err := os.Open(filepath)
+
+	defer csvfile.Close()
+
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -35,7 +38,8 @@ func CsvReader(filepath string) []model.SwitchData {
 			PreTravel:   record[3],
 			TotalTravel: record[4],
 		}
+
 		out = append(out, s)
 	}
-	return out
+	return out[1:]
 }
