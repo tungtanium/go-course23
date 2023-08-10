@@ -1,0 +1,543 @@
+model,feel,actuation,pre-travel,total-travel
+Ajazz Diced Fruit Banana,Tactile,40g,1.9mm,3.3mm
+Ajazz Diced Fruit Blueberry,Linear,48g,2.0mm,3.8mm
+Ajazz Diced Fruit Kiwi,Tactile,50g,1.9mm,3.3mm
+Ajazz Diced Fruit Peach,Linear,40g,2.0mm,4.0mm
+Ajazz AS Foggy Mountain Green,Linear,45g,2.0mm,4.0mm
+Ajazz AS Red Spirit,Linear,37g,2.0mm,4.0mm
+Ajazz AS Sky Blue,Tactile,50g,2.0mm,4.0mm
+Ajazz AS Sunrise Yellow,Linear,45g,1.2mm,3.5mm
+Akko CS Air,Linear,48g,1.9mm,4.0mm
+Akko CS Crystal Blue,Linear,40g,1.6mm,4.0mm
+Akko CS Crystal Silver,Linear,43g,1.0mm,3.0mm
+Akko CS Crystal Wine Red,Linear,45g,1.6mm,3.6mm
+Akko CS Crystal,Linear,43g,1.6mm,4.0mm
+Akko CS Jelly Black,Linear,45g,1.9mm,4.0mm
+Akko CS Jelly Blue,Tactile,40g,2.0mm,4.0mm
+Akko CS Jelly Pink,Linear,45g,1.9mm,4.0mm
+Akko CS Jelly Purple,Tactile,40g,2.0mm,4.0mm
+Akko CS Jelly White,Linear,35g,2.0mm,4.0mm
+Akko CS Lavender Purple,Tactile,36g,1.9mm,4.0mm
+Akko CS Piano,Linear,48g,1.9mm,3.5mm
+Akko CS Matcha Green,Linear,50g,1.9mm,4.0mm
+Akko CS Ocean Blue,Tactile,45g,1.9mm,4.0mm
+Akko CS Radiant Red,Linear,53g,1.9mm,3.5mm
+Akko CS Rose Red,Linear,43g,1.9mm,4.0mm
+Akko CS Sakura,Linear,39g,1.9mm,4.0mm
+Akko CS Silver,Linear,45g,1.0mm,3.0mm
+Akko CS Snow Blue Grey,Linear,43g,1.0mm,3.0mm
+Akko CS Sponge,Tactile,40g,2.0mm,4.0mm
+Akko CS Starfish,Linear,50g,1.9mm,4.0mm
+Akko CS Vintage White,Linear,35g,1.9mm,4.0mm
+Akko CS White Wine,Tactile,35g,2.0mm,4.0mm
+Akko CS Wine Red,Linear,43g,1.9mm,4.0mm
+Akko Haze Pink,Silent Linear,43g,2.0mm,4.0mm
+Akko POM Brown,Tactile,40g,1.9mm,4.0mm
+Akko POM Pink,Linear,45g,1.9mm,4.0mm
+Akko POM Silver,Linear,43g,1.0mm,3.0mm
+Akko x TTC Demon,Linear,50g,2.0mm,4.0mm
+Akko x TTC Princess,Linear,45g,2.0mm,4.0mm
+Akko V3 Cream Blue,Tactile,38g,2.0mm,3.5mm
+Akko V3 Cream Yellow,Linear,50g,1.9mm,3.5mm
+Aliaz Silent 60g,Silent Tactile,60g,2.0mm,4.0mm
+Aliaz Silent 70g,Silent Tactile,70g,2.0mm,4.0mm
+Aliaz Silent 80g,Silent Tactile,80g,2.0mm,4.0mm
+Aliaz Silent 100g,Silent Tactile,100g,2.0mm,4.0mm
+Alpaca V2 Linear,Linear,62g,2.0mm,4.0mm
+Alpaca Silent Linear,Silent Linear,62g,2.0mm,4.0mm
+Arctos 65g,Tactile,65g,2.0mm,4.0mm
+Arctos 72g,Tactile,72g,2.0mm,4.0mm
+Boardsource x Kailh Purpz,Linear,25g,1.5mm,3.0mm
+Candy Blinding Lights 62g,Tactile,62g,2.0mm,4.0mm
+Candy Blinding Lights 65g,Tactile,65g,2.0mm,4.0mm
+Candy Jade Green 55g,Linear,55g,2.0mm,4.0mm
+Candy Jade Green 62g,Linear,62g,2.0mm,4.0mm
+Candy Raindrop,Linear,60g,2.0mm,4.0mm
+Candy Sakura Snow 62g,Tactile,62g,2.0mm,4.0mm
+Candy Sakura Snow 65g,Tactile,65g,2.0mm,4.0mm
+C3 Equalz Fierce Girl,Linear,58.5g,2.0mm,4.0mm
+C3 Equalz x TKC Banana Split,Linear,45g,2.0mm,4.0mm
+C3 Equalz x TKC Dragon Fruit,Tactile,63.5g,2.0mm,4.0mm
+C3 Equalz x TKC Kiwi,Tactile,43g,2.0mm,4.0mm
+C3 Equalz x TKC Tangerine Dark Green,Linear,67g,2.0mm,4.0mm
+C3 Equalz x TKC Tangerine Light Green,Linear,62g,2.0mm,4.0mm
+Cherry MX Black,Linear,60g,2.0mm,4.0mm
+Cherry MX Blue,Clicky,60g,2.2mm,4.0mm
+Cherry MX Brown,Tactile,55g,2.0mm,4.0mm
+Cherry MX Clear,Tactile,65g,2.0mm,4.0mm
+Cherry MX Ergo Clear RGB,Tactile,40g,2.0mm,4.0mm
+Cherry MX Ergo Clear,Tactile,40g,2.0mm,4.0mm
+Cherry MX Green,Clicky,80g,2.2mm,4.0mm
+Cherry MX Grey,Tactile,80g,2.0mm,4.0mm
+Cherry MX Red,Linear,45g,2.0mm,4.0mm
+Cherry MX Silent Black,Silent Linear,60g,1.9mm,3.7mm
+Cherry MX Silent Red,Silent Linear,45g,1.9mm,3.7mm
+Cherry MX Speed Silver,Linear,45g,1.2mm,3.4mm
+Cherry MX White,Clicky,80g,2.2mm,4.0mm
+Cherry MX Black RGB,Linear,60g,2.0mm,4.0mm
+Cherry MX Blue RGB,Clicky,60g,2.2mm,4.0mm
+Cherry MX Brown RGB,Tactile,55g,2.0mm,4.0mm
+Cherry MX Clear RGB,Tactile,65g,2.0mm,4.0mm
+Cherry MX Red RGB,Linear,45g,2.0mm,4.0mm
+Cherry MX Silent Black RGB,Silent Linear,60g,1.9mm,3.7mm
+Cherry MX Silent Red RGB,Silent Linear,45g,1.9mm,3.7mm
+Cherry MX Speed Silver RGB,Linear,45g,1.2mm,3.4mm
+Cherry MX Low Profile Red,Linear,45g,1.2mm,3.2mm
+Cherry MX Low Profile Speed,Linear,45g,1.0mm,3.2mm
+Hirose Cherry MX Orange,Linear,50g,2.0mm,4.0mm
+Chosfox x JWICK Voyager,Tactile,45g,2.0mm,3.5mm
+DCS x JWK Eve,Linear,48g,2.0mm,3.7mm
+Domikey Cyberpunk Green 62g,Tactile,62g,2.0mm,4.0mm
+Domikey Cyberpunk Green 67g,Tactile,67g,2.0mm,4.0mm
+Domikey Cyberpunk EVA Pink 62g,Tactile,62g,2.0mm,4.0mm
+Domikey Cyberpunk EVA Pink 67g,Tactile,67g,2.0mm,4.0mm
+Drop Halo Clear,Tactile,65g,1.9mm,4.0mm
+Drop Halo True,Tactile,60g,1.9mm,4.0mm
+Drop Holy Panda X,Tactile,60g,1.9mm,4.0mm
+Drop x Invyr Holy Panda,Tactile,67g,1.9mm,4.0mm
+Durock EV-01,Linear,63.5g,2.0mm,3.4mm
+Durock EV-02,Linear,63.5g,2.0mm,3.4mm
+Durock Daybreak,Silent Linear,67g,2.0mm,3.4mm
+Durock Dolphin,Silent Linear,62g,2.0mm,3.4mm
+Durock Koala 62g,Tactile,62g,2.0mm,4.0mm
+Durock Koala 67g,Tactile,67g,2.0mm,4.0mm
+Durock L1 Clear Yellow,Linear,55g,2.0mm,4.0mm
+Durock L1 Smokey Yellow,Linear,55g,2.0mm,4.0mm
+Durock L2 Clear Creamy Green,Linear,62g,2.0mm,4.0mm
+Durock L2 Smokey Creamy Green,Linear,62g,2.0mm,4.0mm
+Durock L3 Clear Pink,Linear,65g,2.0mm,4.0mm
+Durock L3 Smokey Pink,Linear,65g,2.0mm,4.0mm
+Durock L4 Clear Purple,Linear,67g,2.0mm,4.0mm
+Durock L4 Smokey Purple,Linear,67g,2.0mm,4.0mm
+Durock L5 Clear Blue,Linear,67g,2.0mm,4.0mm
+Durock L5 Smokey Blue,Linear,67g,2.0mm,4.0mm
+Durock L7 Smokey 62g,Linear,62g,2.0mm,4.0mm
+Durock L7 Smokey 67g,Linear,67g,2.0mm,4.0mm
+Durock L7 Smokey 78g,Linear,78g,2.0mm,4.0mm
+Durock Mamba,Linear,60g,2.0mm,3.5mm
+Durock POM Piano,Linear,63.5g,2.0mm,3.7mm
+Durock POM T1 Sunflower,Tactile,63.5g,2.0mm,3.7mm
+Durock Silent T1 Shrimp,Silent Tactile,67g,2.0mm,3.8mm
+Durock Splash Brothers,Linear,48g,1.0mm,3.5mm
+Durock T1 Clear,Tactile,67g,2.0mm,4.0mm
+Durock T1 Smokey,Tactile,67g,2.0mm,4.0mm
+Epomaker Bluebird,Linear,47g,2.0mm,3.8mm
+Epomaker Budgerigar,Tactile,47g,2.0mm,3.8mm
+Epomaker Flamingo,Linear,47g,2.0mm,3.8mm
+Epomaker Sea Salt,Linear,50g,2.0mm,4.0mm
+Everglide Amber Orange,Linear,58g,2.0mm,4.0mm
+Everglide Aqua King 55g,Linear,55g,2.0mm,4.0mm
+Everglide Aqua King 62g,Linear,62g,2.0mm,4.0mm
+Everglide Aqua King 67g,Linear,67g,2.0mm,4.0mm
+Everglide Bamboo Green,Tactile,62g,2.0mm,4.0mm
+Everglide Coral Red,Linear,67g,2.0mm,4.0mm
+Everglide Crystal Purple,Tactile,55g,2.0mm,4.0mm
+Everglide Dark Jade,Tactile,50g,2.0mm,4.0mm
+Everglide Jade Green,Tactile,58g,2.0mm,4.0mm
+Everglide Oreo,Tactile,55g,2.0mm,4.0mm
+Everglide Sakura Pink,Linear,45g,2.0mm,4.0mm
+Everglide Tourmaline Blue,Linear,50g,2.0mm,4.0mm
+Everglide Tourmaline Blue V2.5 50g,Linear,50g,2.0mm,4.0mm
+Everglide Tourmaline Blue V2.5 55g,Linear,55g,2.0mm,4.0mm
+Everglide Tourmaline Blue V2.5 62g,Linear,62g,2.0mm,4.0mm
+Fantasy Bulbasaur,Linear,42g,2.0mm,4.0mm
+Fantasy Charmander,Tactile,43g,2.0mm,3.6mm
+Fantasy DVA,Linear,37g,2.0mm,3.8mm
+Fantasy Virus,Tactile,58g,2.0mm,3.6mm
+Feker Airy,Linear,58g,2.0mm,4.0mm
+Feker Blue White,Tactile,50g,2.0mm,3.3mm
+Feker Emerald,Tactile,50g,2.0mm,3.3mm
+Feker Holy Panda,Tactile,50g,2.0mm,4.0mm
+Feker Miami,Tactile,58g,2.0mm,4.0mm
+Feker Smokey Tactile,Tactile,55g,2.0mm,3.3mm
+Feker Smokey Linear,Linear,60g,2.0mm,3.3mm
+Gamakay Bumblebee,Linear,45g,1.3mm,4.0mm
+Gamakay Crystal,Linear,45g,2.0mm,4.0mm
+Gamakay Phoenix,Silent Linear,40g,3.3mm,4.0mm
+Gateron Baby Kangaroo,Tactile,59g,2.0mm,3.4mm
+Gateron Baby Raccoon,Linear,55g,2.0mm,3.6mm
+Gateron CAP Golden Brown,Tactile,55g,2.0mm,4.0mm
+Gateron CAP Golden Yellow,Linear,50g,2.0mm,4.0mm
+Gateron CAP Milky Brown,Tactile,55g,2.0mm,4.0mm
+Gateron CAP Milky Yellow,Linear,50g,2.0mm,4.0mm
+Gateron CAP V2 Milky Brown,Tactile,55g,2.0mm,4.0mm
+Gateron CAP V2 Milky Yellow,Linear,50g,2.0mm,4.0mm
+Gateron CJ Dark Blue Unlubed,Linear,50g,2.0mm,4.0mm
+Gateron CJ Light Blue Lubed,Linear,50g,2.0mm,4.0mm
+Gateron Ink Black V2,Linear,60g,2.0mm,4.0mm
+Gateron Ink Black,Linear,60g,2.0mm,4.0mm
+Gateron Ink Blue V2,Clicky,60g,2.0mm,4.0mm
+Gateron Ink Blue,Clicky,60g,2.0mm,4.0mm
+Gateron Ink Box V2 Black,Linear,70g,1.2mm,3.4mm
+Gateron Ink Box V2 Pink,Linear,60g,1.2mm,3.4mm
+Gateron Ink Red V2,Linear,45g,2.0mm,4.0mm
+Gateron Ink Red,Linear,45g,2.0mm,4.0mm
+Gateron Ink Silent Black V2,Silent Linear,60g,2.0mm,4.0mm
+Gateron Ink Silent Black,Silent Linear,60g,2.0mm,4.0mm
+Gateron Ink Yellow V2,Linear,60g,2.0mm,3.4mm
+Gateron Ink Yellow,Linear,60g,2.0mm,3.4mm
+Gateron Ink Kangaroo 59g,Tactile,59g,1.5mm,3.4mm
+Gateron Ink Kangaroo 63g,Tactile,63g,1.5mm,3.4mm
+Gateron Milky Black,Linear,60g,2.0mm,4.0mm
+Gateron Milky Blue,Clicky,80g,2.0mm,4.0mm
+Gateron Milky Brown,Tactile,55g,2.0mm,4.0mm
+Gateron Milky Clear,Linear,35g,2.0mm,4.0mm
+Gateron Milky Green,Clicky,60g,2.3mm,4.0mm
+Gateron Milky Red,Linear,45g,2.0mm,4.0mm
+Gateron Milky Yellow,Linear,50g,2.0mm,4.0mm
+Gateron Black,Linear,60g,2.0mm,4.0mm
+Gateron Blue,Clicky,55g,2.3mm,4.0mm
+Gateron Brown,Tactile,55g,2.0mm,4.0mm
+Gateron Clear,Linear,35g,2.0mm,4.0mm
+Gateron Green,Clicky,80g,2.3mm,4.0mm
+Gateron Red,Linear,45g,2.0mm,4.0mm
+Gateron Yellow,Linear,35g,2.0mm,4.0mm
+Gateron Silent Black,Silent Linear,60g,2.0mm,4.0mm
+Gateron Silent Brown,Silent Tactile,55g,2.0mm,4.0mm
+Gateron Silent Clear,Silent Linear,35g,2.0mm,4.0mm
+Gateron Silent Red,Silent Linear,45g,2.0mm,4.0mm
+Gateron Silent Yellow,Silent Linear,35g,2.0mm,4.0mm
+Gateron North Pole 2.0 Yellow,Linear,50g,2.0mm,4.0mm
+Gateron Oil King,Linear,55g,2.0mm,4.0mm
+Gateron Optical Black,Linear,60g,2.0mm,4.0mm
+Gateron Optical Blue,Clicky,55g,2.3mm,4.0mm
+Gateron Optical Brown,Tactile,55g,2.0mm,4.0mm
+Gateron Optical Clear,Linear,35g,2.0mm,4.0mm
+Gateron Optical Red,Linear,45g,2.0mm,4.0mm
+Gateron Optical Silver,Linear,45g,1.0mm,3.2mm
+Gateron Optical Yellow,Linear,35g,1.0mm,3.2mm
+Gateron Keyfirst Cream,Linear,62g,2.0mm,4.0mm
+Gateron Robin 62g,Linear,62g,2.0mm,4.0mm
+Gateron Robin 67g,Linear,67g,2.0mm,4.0mm
+Gateron SMD Black,Linear,50g,2.0mm,4.0mm
+Gateron SMD Blue,Clicky,55g,2.3mm,4.0mm
+Gateron SMD Brown,Tactile,45g,2.0mm,4.0mm
+Gateron SMD Clear,Linear,35g,2.0mm,4.0mm
+Gateron SMD Green,Clicky,80g,2.0mm,4.0mm
+Gateron SMD Red,Linear,45g,2.0mm,4.0mm
+Gateron SMD Yellow,Linear,50g,2.0mm,4.0mm
+Gateron Silver Pro,Linear,45g,3.4mm,1.2mm
+Gazzew Boba Black U4,Tactile,62g,2.0mm,4.0mm
+Gazzew Boba LT 55g,Linear,55g,2.0mm,4.0mm
+Gazzew Boba LT 65g,Linear,65g,2.0mm,4.0mm
+Gazzew Boba Gum Pink 52g,Silent Linear,52g,2.0mm,4.0mm
+Gazzew Boba Gum Pink 62g,Silent Linear,62g,2.0mm,4.0mm
+Gazzew Boba Gum Pink 68g,Silent Linear,68g,2.0mm,4.0mm
+Gazzew Boba U4 RGB 62g,Silent Tactile,62g,2.0mm,4.0mm
+Gazzew Boba U4 RGB 68g,Silent Tactile,68g,2.0mm,4.0mm
+Gazzew Boba U4 62g,Silent Tactile,62g,2.0mm,4.0mm
+Gazzew Boba U4 68g,Silent Tactile,68g,2.0mm,4.0mm
+Gazzew Boba U4T 62g,Tactile,62g,2.0mm,4.0mm
+Gazzew Boba U4T 68g,Tactile,68g,2.0mm,4.0mm
+Glorious Lynx,Linear,60g,2.0mm,4.0mm
+Glorious Panda,Tactile,67g,2.0mm,4.0mm
+Gopolar Azure Dragon,Tactile,63g,2.0mm,4.0mm
+Gopolar Vermilion Bird,Linear,50g,2.0mm,4.0mm
+Hako Clear,Tactile,55g,1.9mm,3.6mm
+Hako True,Tactile,60g,1.9mm,3.6mm
+Hako Violet,Tactile,28g,1.9mm,3.6mm
+HK Gaming MS1 Pro Sky Blue,Linear,62g,2.0mm,4.0mm
+HK Gaming MS1 Pro Marlin Blue,Linear,67g,2.0mm,4.0mm
+HK Gaming MS1 Pro Lake Blue,Linear,72g,2.0mm,4.0mm
+Huano Black,Linear,60g,2.0mm,4.0mm
+Huano Blue,Clicky,50g,2.0mm,4.0mm
+Huano Brown,Tactile,55g,2.0mm,4.0mm
+Huano American Rose Garden,Linear,35g,2.0mm,4.0mm
+Huano Holy Tom V1,Tactile,60g,2.0mm,4.0mm
+Huano Holy Tom V2,Tactile,63.5g,2.0mm,4.0mm
+Huano Holy Tom Jerry V1,Linear,43g,2.0mm,4.0mm
+Huano Pink,Linear,60g,1.2mm,4.0mm
+Huano Red,Linear,45g,2.0mm,4.0mm
+Huano Silver,Linear,60g,1.2mm,4.0mm
+Huano Smokey Pink,Linear,80g,2.0mm,4.0mm
+Huano Smokey White,Tactile,65g,2.0mm,3.3mm
+HyperX Aqua,Tactile,45g,1.8mm,3.8mm
+HyperX Blue,Clicky,50g,1.8mm,3.8mm
+HyperX Red,Linear,45g,1.8mm,3.8mm
+JTK Dreaming Girl Usagi,Linear,55g,2.0mm,4.0mm
+JWICK Aloe,Tactile,67g,2.0mm,4.0mm
+JWICK Black V2,Linear,42g,2.0mm,4.0mm
+JWICK Giant,Tactile,58g,2.0mm,4.0mm
+JWICK Grey White,Linear,48g,2.0mm,3.7mm
+JWICK Milk Yellow,Linear,50g,2.0mm,4.0mm
+JWICK x MoYu.Studio Queen Linear,Linear,60g,2.0mm,4.0mm
+JWICK Red Pro,Linear,60g,2.0mm,4.0mm
+JWICK Red,Linear,60g,2.0mm,4.0mm
+JWICK T1 V2,Tactile,55g,2.0mm,4.0mm
+JWICK Taro Puree,Tactile,70g,2.0mm,3.7mm
+JWICK TC V2,Tactile,55g,2.0mm,4.0mm
+JWICK Ultimate Black,Linear,38g,2.0mm,4.0mm
+JWICK White,Linear,37g,2.0mm,4.0mm
+JWICK Yellow Pro,Linear,65g,2.0mm,4.0mm
+JWICK Yellow,Linear,65g,2.0mm,4.0mm
+JWK Epsilon,Linear,68g,2.0mm,4.0mm
+JWK Ice Jade,Tactile,62g,2.0mm,4.0mm
+JWK Ice Pink,Linear,62g,2.0mm,4.0mm
+JWK Matcha,Linear,49g,2.0mm,4.0mm
+JWK x Protozoa Studio The Moss 62g,Tactile,62g,2.0mm,4.0mm
+JWK x Protozoa Studio The Moss 67g,Tactile,67g,2.0mm,4.0mm
+Kailh Black,Linear,60g,1.9mm,4.0mm
+Kailh Blue,Clicky,60g,1.9mm,4.0mm
+Kailh Brown,Tactile,50g,1.9mm,4.0mm
+Kailh Red,Linear,45g,1.9mm,4.0mm
+Kailh Box Black,Linear,60g,1.8mm,3.6mm
+Kailh Box Brown,Tactile,60g,1.8mm,3.6mm
+Kailh Box Red,Linear,50g,1.8mm,3.6mm
+Kailh Box White,Clicky,50g,1.8mm,3.6mm
+Kailh Box Red Pro,Linear,35g,1.8mm,3.6mm
+Kailh Box Pink,Clicky,62g,1.8mm,3.6mm
+Kailh Box Red Bean Pudding,Linear,45g,1.8mm,3.6mm
+Kailh Box Silent Brown,Silent Tactile,45g,1.8mm,3.6mm
+Kailh Box Silent Pink,Silent Linear,35g,1.8mm,3.6mm
+Kailh Box White Owl,Clicky,46g,1.8mm,3.6mm
+Kailh Box Ancient Grey,Linear,95g,1.8mm,3.6mm
+Kailh Box Chinese Red,Linear,45g,1.8mm,3.6mm
+Kailh Box Glazed Green,Clicky,50g,1.8mm,3.6mm
+Kailh Box Noble Yellow,Clicky,65g,1.8mm,3.6mm
+Kailh Box Crystal Jade,Clicky,55g,1.8mm,3.6mm
+Kailh Box Crystal Navy,Clicky,60g,1.8mm,3.6mm
+Kailh Box Crystal Pink,Clicky,65g,1.8mm,3.6mm
+Kailh Box Crystal Pro,Tactile,65g,1.8mm,3.6mm
+Kailh Box Crystal Royal,Tactile,40g,1.8mm,3.6mm
+Kailh Box Crystal 62g,Tactile,62g,1.8mm,3.6mm
+Kailh Box Crystal 67g,Tactile,67g,1.8mm,3.6mm
+Kailh Box Crystal 72g,Tactile,72g,1.8mm,3.6mm
+Kailh Box Heavy Burnt Orange,Tactile,60g,1.8mm,3.6mm
+Kailh Box Heavy Dark Yellow,Linear,60g,1.8mm,3.6mm
+Kailh Box Heavy Pale Blue,Clicky,60g,1.8mm,3.6mm
+Kailh Pro Burgundy,Linear,50g,1.7mm,3.6mm
+Kailh Pro Light Green,Clicky,50g,1.7mm,3.6mm
+Kailh Pro Purple,Tactile,50g,1.7mm,3.6mm
+Kailh RGB Black,Linear,60g,1.9mm,4.0mm
+Kailh RGB Blue,Clicky,50g,1.9mm,4.0mm
+Kailh RGB Brown,Tactile,50g,1.9mm,4.0mm
+Kailh RGB Red,Linear,45g,1.9mm,4.0mm
+Kailh Speed Bronze,Clicky,50g,1.1mm,3.5mm
+Kailh Speed Copper,Tactile,50g,1.1mm,3.5mm
+Kailh Speed Gold,Clicky,50g,1.4mm,3.5mm
+Kailh Speed Pink,Clicky,50g,1.4mm,3.5mm
+Kailh Speed Silver,Linear,40g,1.4mm,3.5mm
+Kailh x Domikey Canary,Tactile,42g,2.0mm,4.0mm
+Kailh x Domikey Knight Saber,Tactile,60g,2.0mm,4.0mm
+Kailh Polia,Tactile,60g,1.9mm,3.8mm
+Kailh Choc Black,Linear,60g,1.3mm,3.2mm
+Kailh Choc Brown,Tactile,50g,1.3mm,3.2mm
+Kailh Choc Red,Linear,50g,1.3mm,3.2mm
+Kailh Choc White,Clicky,50g,1.3mm,3.2mm
+Kailh Choc Heavy Burnt Orange,Tactile,60g,1.3mm,3.2mm
+Kailh Choc Heavy Dark Yellow,Linear,70g,1.3mm,3.2mm
+Kailh Choc Heavy Pale Blue,Clicky,60g,1.3mm,3.2mm
+Kailh Choc Jade,Clicky,50g,1.3mm,3.2mm
+Kailh Choc Navy,Clicky,50g,1.3mm,3.2mm
+Kailh Choc V2 Blue,Clicky,55g,1.3mm,3.2mm
+Kailh Choc V2 Brown,Tactile,50g,1.3mm,3.2mm
+Kailh Choc V2 Red,Linear,50g,1.3mm,3.2mm
+Kailh Choc Red Crystal,Linear,35g,1.5mm,3.0mm
+Kailh Choc Red Pro,Linear,35g,1.8mm,3.6mm
+Kailh Choc Robin 47g,Clicky,47g,1.5mm,3.0mm
+Kailh Choc Robin 52g,Clicky,52g,1.5mm,3.0mm
+Kailh Choc Robin 57g,Clicky,57g,1.5mm,3.0mm
+Kailh Choc Light Blue,Linear,25g,1.5mm,3.0mm
+Keychron Low Profile Optical Banana,Tactile,57g,1.1mm,2.5mm
+Keychron Low Profile Optical Black,Linear,50g,1.1mm,2.5mm
+Keychron Low Profile Optical Blue,Clicky,48g,1.1mm,2.5mm
+Keychron Low Profile Optical Brown,Tactile,57g,1.1mm,2.5mm
+Keychron Low Profile Optical Mint,Tactile,67g,1.1mm,2.5mm
+Keychron Low Profile Optical Orange,Clicky,55g,1.1mm,2.5mm
+Keychron Low Profile Optical Red,Linear,40g,1.1mm,2.5mm
+Keychron Low Profile Optical White,Linear,30g,1.1mm,2.5mm
+Keyfirst Bling Blue,Linear,67g,2.0mm,3.8mm
+Keyfirst Bling Green,Linear,80g,2.0mm,3.8mm
+Keyfirst Bling Pink,Linear,45g,2.0mm,3.8mm
+Keyfirst Bling Purple,Linear,62g,2.0mm,3.8mm
+Keyfirst Bling Yellow,Linear,30g,2.0mm,3.8mm
+Keyfirst Queen,Linear,60g,2.0mm,4.0mm
+KK Light Wave Mint Green,Linear,45g,2.0mm,4.0mm
+KTT Grapefruit,Linear,45g,2.0mm,4.0mm
+KTT Kang White,Linear,40g,2.0mm,4.0mm
+KTT Matcha,Tactile,40g,1.9mm,4.0mm
+KTT Mint,Linear,45g,2.0mm,4.0mm
+KTT Peach,Linear,45g,2.0mm,4.0mm
+KTT Rose,Linear,43g,2.0mm,4.0mm
+KTT Sea Salt Lemon,Linear,45g,2.0mm,4.0mm
+KTT Strawberry,Linear,62g,2.0mm,4.0mm
+KTT Wine Red,Linear,44g,2.0mm,4.0mm
+LCET Blue Pink,Tactile,58g,2.0mm,4.0mm
+LCET Desert,Tactile,58g,2.0mm,4.0mm
+LCET Grace,Linear,50g,2.0mm,4.0mm
+LCET Ice World,Linear,50g,2.0mm,4.0mm
+LCET Joker,Tactile,58g,2.0mm,4.0mm
+LCET Oasis,Tactile,58g,2.0mm,4.0mm
+LCET Pink Queen,Tactile,58g,2.0mm,4.0mm
+LCET Pink Sweet Heart,Tactile,58g,2.0mm,4.0mm
+LCET Sprout,Linear,50g,2.0mm,4.0mm
+MiTo Laser Cyan,Linear,60g,2.0mm,4.0mm
+MiTo Laser Pink,Linear,70g,2.0mm,4.0mm
+MK Holy Llama,Tactile,55g,2.0mm,4.0mm
+MK Purple Slush,Linear,50g,2.0mm,4.0mm
+MMK Flamingo,Linear,54g,1.9mm,3.9mm
+MMK Frog,Tactile,54g,2.6mm,3.9mm
+MOD-H Linear,Linear,62g,2.0mm,4.0mm
+MOD-M Linear,Linear,55g,2.0mm,4.0mm
+MOD-L Linear,Linear,45g,2.0mm,4.0mm
+MOD-SH Tactile,Tactile,70g,2.0mm,4.0mm
+MOD-H Tactile,Tactile,62g,2.0mm,4.0mm
+MOD-M Tactile,Tactile,55g,2.0mm,4.0mm
+MOD-L Tactile,Linear,45g,2.0mm,4.0mm
+Nightwalker Nightcall,Silent Linear,66g,2.0mm,4.0mm
+Nightwalker Solaris,Tactile,66g,2.0mm,4.0mm
+NK Blueberry,Tactile,65g,1.8mm,3.0mm
+NK Box Cream,Linear,45g,2.0mm,4.0mm
+NK Cream Tactile,Tactile,65g,3.0mm,4.0mm
+NK Cream,Linear,55g,1.8mm,3.0mm
+NK Sherbet,Clicky,55g,2.0mm,4.0mm
+NK Big Switch Burnt Orange,Tactile,280g,4.8mm,14.0mm
+NK Big Switch Dark Yellow,Linear,280g,4.8mm,14.0mm
+NK Big Switch Pale Blue,Clicky,280g,4.8mm,14.0mm
+Outemu Black,Linear,60g,1.5mm,4.0mm
+Outemu Blue,Clicky,60g,2.4mm,4.0mm
+Outemu Brown,Tactile,50g,2.0mm,4.0mm
+Outemu Dustproof Black,Linear,60g,1.5mm,4.0mm
+Outemu Dustproof Blue,Clicky,60g,2.4mm,4.0mm
+Outemu Dustproof Brown,Tactile,50g,2.0mm,4.0mm
+Outemu Dustproof Green,Clicky,70g,2.0mm,4.0mm
+Outemu Dustproof Purple,Tactile,50g,2.0mm,4.0mm
+Outemu Dustproof Red,Linear,45g,2.0mm,4.0mm
+Outemu Dustproof Silver,Linear,45g,1.3mm,4.0mm
+Outemu GAOTE Black,Linear,80g,1.5mm,4.0mm
+Outemu GAOTE Blue,Clicky,60g,2.4mm,4.0mm
+Outemu GAOTE Brown,Tactile,40g,2.0mm,4.0mm
+Outemu GAOTE Red,Linear,60g,2.0mm,4.0mm
+Outemu Gold,Clicky,58g,2.0mm,4.0mm
+Outemu Green,Clicky,70g,2.0mm,4.0mm
+Outemu Ice Clear,Tactile,62g,2.0mm,4.0mm
+Outemu Ice Dark Purple,Tactile,68g,2.0mm,4.0mm
+Outemu Ice Grey,Tactile,75g,2.0mm,4.0mm
+Outemu Ice Light Purple,Tactile,62g,2.0mm,4.0mm
+Outemu Ocean,Clicky,55g,1.8mm,4.0mm
+Outemu Orange,Tactile,50g,2.0mm,4.0mm
+Outemu OTM Alps Red,Linear,35g,2.2mm,3.5mm
+Outemu OTM Alps White,Clicky,60g,2.2mm,3.5mm
+Outemu Panda,Tactile,50g,1.8mm,3.3mm
+Outemu Purple,Tactile,50g,2.0mm,4.0mm
+Outemu Red,Linear,45g,2.0mm,4.0mm
+Outemu Silent Forest 62g,Tactile,62g,2.0mm,4.0mm
+Outemu Silent Forest 68g,Tactile,68g,2.0mm,4.0mm
+Outemu Silent Gray,Tactile,55g,1.6mm,4.0mm
+Outemu Silent Lemon,Tactile,35g,1.8mm,3.3mm
+Outemu Silent Peach,Linear,40g,1.3mm,3.3mm
+Outemu Silent Sky,Silent Linear,45g,2.0mm,4.0mm
+Outemu Silent White,Silent Linear,45g,2.0mm,4.0mm
+Outemu Silver,Tactile,45g,2.0mm,4.0mm
+Outemu Sky 62g,Tactile,62g,2.0mm,4.0mm
+Outemu Sky 68g,Tactile,68g,2.0mm,4.0mm
+Outemu Teal,Clicky,70g,2.0mm,4.0mm
+Outemu Transparent,Linear,45g,2.0mm,4.0mm
+Razer Analog Optical,Linear,45g,1.5mm,3.6mm
+Razer Green,Clicky,50g,1.9mm,4.0mm
+Razer Orange,Tactile,45g,1.9mm,4.0mm
+Razer Yellow,Linear,45g,1.2mm,3.5mm
+Razer Optical Clicky,Clicky,45g,1.5mm,3.5mm
+Razer Optical Linear,Linear,40g,1.5mm,3.5mm
+Redragon A113 Bullet-B Parrot,Clicky,40g,2.0mm,4.0mm
+Redragon A113 Bullet-F Wukong,Tactile,50g,1.8mm,3.3mm
+Redragon A113 Bullet-QL Peach,Linear,40g,2.0mm,3.3mm
+Redragon A113 Bullet-QT Lime,Tactile,35g,1.8mm,3.3mm
+Redragon A113 Bullet-R Neon,Linear,40g,2.0mm,4.0mm
+Redragon A113 Bullet-S Silver,Linear,35g,1.3mm,4.0mm
+RK x TTC Colorful Green,Linear,41g,1.9mm,4.0mm
+RK x TTC Colorful Red,Linear,41g,1.9mm,4.0mm
+RK x TTC Colorful Yellow,Linear,41g,1.9mm,4.0mm
+SP Star Ayara,Linear,62g,2.0mm,4.0mm
+SP Star Luminous Cyber,Linear,62g,2.0mm,4.0mm
+SP Star Duck,Tactile,57g,2.0mm,4.0mm
+SP Star Polaris Grey,Tactile,67g,2.0mm,4.0mm
+SP Star Magic Girl,Tactile,67g,2.0mm,4.0mm
+SP Star Meteor Orange,Tactile,57g,2.0mm,4.0mm
+SP Star Meteor White,Linear,57g,2.0mm,4.0mm
+SP Star Polaris Purple,Tactile,67g,2.0mm,4.0mm
+SP Star x Kon Momo,Tactile,65g,2.0mm,4.0mm
+SP Star x Kon Nana,Linear,65g,2.0mm,4.0mm
+SP Star Pink & Green,Linear,48g,2.0mm,4.0mm
+SP Star Red & Blue,Linear,57g,2.0mm,4.0mm
+SP Star Luminous Starry Night,Linear,62g,2.0mm,4.0mm
+SP Star Polaris White,Linear,57g,2.0mm,4.0mm
+SP Star Yanyu,Linear,48g,2.0mm,4.0mm
+SteelSeries OmniPoint,Linear,45g,0.4mm,3.6mm
+SteelSeries QX2 Blue,Clicky,45g,2.0mm,4.0mm
+SteelSeries QX2 Brown,Tactile,45g,2.0mm,4.0mm
+SteelSeries QX2 Red,Linear,45g,2.0mm,4.0mm
+Tecsee Blue Sky Linear,Linear,48g,1.8mm,3.4mm
+Tecsee Blue Sky Tactile,Tactile,48g,1.8mm,3.4mm
+Tecsee Carrot,Linear,55g,2.0mm,3.5mm
+Tecsee Coral,Tactile,55g,1.8mm,3.0mm
+Tecsee Ice Candy,Linear,55g,2.1mm,3.8mm
+Tecsee Ice Grape,Linear,55g,1.9mm,3.8mm
+Tecsee Jadeite,Linear,55g,2.1mm,3.8mm
+Tecsee Mango Ice,Tactile,52g,1.9mm,3.8mm
+Tecsee Oreo,Linear,55g,1.9mm,3.8mm
+Tecsee Purple Panda,Tactile,55g,2.0mm,3.0mm
+Tecsee Ruby,Linear,52g,2.0mm,3.5mm
+Tecsee Safety,Linear,52g,2.0mm,3.7mm
+Tecsee Sapphire,Tactile,52g,2.0mm,3.0mm
+Titan Linear,Linear,45g,1.4mm,3.6mm
+Titan Tactile,Tactile,55g,1.8mm,3.6mm
+Titan Optical Linear,Linear,45g,1.4mm,3.6mm
+Titan Optical Tactile,Tactile,45g,1.8mm,3.6mm
+Topre,Tactile,30g+,2.0mm,4.0mm
+Topre Silent,Silent Tactile,30g+,2.0mm,4.0mm
+TTC Ace,Linear,60g,2.0mm,4.0mm
+TTC Bluish White,Tactile,42g,2.0mm,3.5mm
+TTC Chaotic Panda,Tactile,55g,2.0mm,4.0mm
+TTC Cyber Panda,Tactile,55g,2.0mm,4.0mm
+TTC Flame Red,Linear,45g,2.0mm,4.0mm
+TTC Frozen,Linear,39g,2.0mm,3.5mm
+TTC Gold Blue,Clicky,37g,2.2mm,3.5mm
+TTC Gold Brown,Tactile,45g,2.0mm,4.0mm
+TTC Gold Pink V2,Linear,37g,2.0mm,4.0mm
+TTC Gold Pink,Linear,37g,2.0mm,4.0mm
+TTC Gold Red,Linear,50g,2.0mm,4.0mm
+TTC Heroic Panda,Tactile,55g,2.0mm,4.0mm
+TTC Hey,Linear,50g,2.0mm,4.0mm
+TTC Honey,Linear,42g,2.0mm,3.8mm
+TTC Low Profile Blue,Clicky,45g,1.3mm,3.2mm
+TTC Low Profile Red,Linear,45g,1.2mm,3.2mm
+TTC Matrix Wild 42g,Linear,42g,2.0mm,4.0mm
+TTC Matrix Wild 55g,Linear,55g,2.0mm,4.0mm
+TTC NCR V2,Linear,52g,2.0mm,4.0mm
+TTC Silent Brown V2,Silent Tactile,55g,2.0mm,4.0mm
+TTC Silent Brown,Silent Tactile,45g,2.0mm,3.8mm
+TTC Silent Red,Silent Linear,45g,1.9mm,3.7mm
+TTC Speed Silver,Linear,45g,2.0mm,4.0mm
+TTC Tiger OG,Linear,45g,1.0mm,3.7mm
+TTC Watermelon Milkshake,Tactile,55g,2.0mm,4.0mm
+TTC x Helix Lab Skylar,Clicky,45g,2.0mm,4.0mm
+Varmilo EC Daisy V2,Linear,35g,2.0mm,4.0mm
+Varmilo EC Ivy V2,Clicky,50g,2.3mm,4.0mm
+Varmilo EC Rose V2,Linear,55g,2.0mm,4.0mm
+Varmilo EC Sakura V2,Linear,45g,2.0mm,4.0mm
+YOK Mint Panda,Linear,50g,2.0mm,4.0mm
+YOK Polar Panda,Linear,50g,2.0mm,4.0mm
+YOK Purple Trash Panda,Tactile,75g,2.0mm,4.0mm
+YOK Red Panda,Linear,50g,2.0mm,4.0mm
+YOK Translucent Panda,Linear,50g,2.0mm,4.0mm
+YOK Trash Panda,Linear,50g,2.0mm,4.0mm
+YOK White Panda,Linear,50g,2.0mm,4.0mm
+Zeal Aqua Zilent 62g,Silent Tactile,62g,2.0mm,4.0mm
+Zeal Aqua Zilent 67g,Silent Tactile,67g,2.0mm,4.0mm
+Zeal Clickiez 40g,Clicky,40g,2.0mm,4.0mm
+Zeal Clickiez 75g,Clicky,75g,2.0mm,4.0mm
+Zeal Healio V2,Silent Linear,63.5g,2.0mm,4.0mm
+Zeal Roselio,Silent Linear,67g,2.0mm,4.0mm
+Zeal Sakurio,Silent Linear,62g,2.0mm,4.0mm
+Zeal Tealio V2,Linear,67g,2.0mm,4.0mm
+Zeal Turquoise Tealio 63.5g,Linear,63.5g,2.0mm,4.0mm
+Zeal Turquoise Tealio 65g,Linear,65g,2.0mm,4.0mm
+Zeal Zealio 62g V2,Tactile,62g,2.0mm,4.0mm
+Zeal Zealio 65g V2,Tactile,65g,2.0mm,4.0mm
+Zeal Zealio 67g V2,Tactile,67g,2.0mm,4.0mm
+Zeal Zealio 78g V2,Tactile,78g,2.0mm,4.0mm
+Zeal Zilent 62g V2,Silent Tactile,62g,2.0mm,4.0mm
+Zeal Zilent 65g V2,Silent Tactile,65g,2.0mm,4.0mm
+Zeal Zilent 67g V2,Silent Tactile,67g,2.0mm,4.0mm
+Zeal Zilent 78g V2,Silent Tactile,78g,2.0mm,4.0mm
